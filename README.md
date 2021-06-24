@@ -14,7 +14,7 @@ Companies tend to focus on active users who tend to have greater purchasing powe
 •	The application should have features like recording the meeting, securing the session using a password, toggle camera, raise hand system, inviting participants, and other features which can help the users during a video conference.
 
 # Screenshots
-1. Light Theme
+# 1. Light Theme
 ![image](https://user-images.githubusercontent.com/59088067/123191386-d194d980-d4be-11eb-8541-e30e34cf2277.png)
 ![image](https://user-images.githubusercontent.com/59088067/123191402-d5286080-d4be-11eb-829b-ad35d3a4db45.png)
 ![image](https://user-images.githubusercontent.com/59088067/123191416-d8bbe780-d4be-11eb-87e3-e95186fd4d6f.png)
@@ -30,8 +30,7 @@ Companies tend to focus on active users who tend to have greater purchasing powe
 ![image](https://user-images.githubusercontent.com/59088067/123191553-115bc100-d4bf-11eb-84ff-46312d93dc2b.png)
 ![image](https://user-images.githubusercontent.com/59088067/123191559-16207500-d4bf-11eb-9b69-74812d7b00d1.png)
 
-
-3. Dark Theme
+# 2. Dark Theme
 ![image](https://user-images.githubusercontent.com/59088067/123191163-7236c980-d4be-11eb-9c6d-cd28d4f8828e.png)
 ![image](https://user-images.githubusercontent.com/59088067/123191175-77941400-d4be-11eb-8266-07b79447e296.png)
 ![image](https://user-images.githubusercontent.com/59088067/123191188-7c58c800-d4be-11eb-8427-ef845174d36b.png)
