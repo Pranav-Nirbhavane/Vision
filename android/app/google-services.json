@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225941812544",
+    "firebase_url": "https://social-apps-77fd0.firebaseio.com",
+    "project_id": "social-apps-77fd0",
+    "storage_bucket": "social-apps-77fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225941812544:android:d57fb9fda696dcd10676a5",
+        "android_client_info": {
+          "package_name": "com.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225941812544-61p66k28hm6o59t2k7jprn32dv2nf326.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vision",
+            "certificate_hash": "baf119573b239869466a5e4b37218614c6c8a691"
+          }
+        },
+        {
+          "client_id": "225941812544-c71srjn2s5sbob9in0h80o76ls77vevg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZicIaVmQ_8ILhtdeW07psa9aJRbLEkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225941812544-c71srjn2s5sbob9in0h80o76ls77vevg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
